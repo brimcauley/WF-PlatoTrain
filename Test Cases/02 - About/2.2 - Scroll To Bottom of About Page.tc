@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2.2 - Scroll To Bottom of About Page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2dc7b892-1d7a-4941-b8fb-9b8ad419e913</testCaseGuid>
+</TestCaseEntity>
